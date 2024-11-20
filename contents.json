@@ -4,5 +4,25 @@
         "W58htAlrB0Y",
         "W58htAlrB0Y",
         "W58htAlrB0Y"
+    ],
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Blog 1",
+            "content": "This is the content of blog 1",
+            "url": "www.google.com"
+        },
+        {
+            "id": 1,
+            "title": "Blog 1",
+            "content": "This is the content of blog 1",
+            "url": "www.google.com"
+        },
+        {
+            "id": 1,
+            "title": "Blog 1",
+            "content": "This is the content of blog 1",
+            "url": "www.google.com"
+        }
     ]
 }
