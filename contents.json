@@ -8,9 +8,9 @@
     "blogs": [
         {
             "id": 1,
-            "title": "Blog 1",
-            "content": "This is the content of blog 1",
-            "url": "https://flutter.dev"
+            "title": "The Complete Wird al Latif",
+            "content": "A Dhikr Set by Imam Al-Haddad",
+            "url": "https://simplyislam.academy/blog/the-complete-wird-al-latif"
         },
         {
             "id": 1,
