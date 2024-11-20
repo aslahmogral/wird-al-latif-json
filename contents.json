@@ -10,19 +10,19 @@
             "id": 1,
             "title": "Blog 1",
             "content": "This is the content of blog 1",
-            "url": "www.google.com"
+            "url": "https://flutter.dev"
         },
         {
             "id": 1,
             "title": "Blog 1",
             "content": "This is the content of blog 1",
-            "url": "www.google.com"
+            "url": "https://flutter.dev"
         },
         {
             "id": 1,
             "title": "Blog 1",
             "content": "This is the content of blog 1",
-            "url": "www.google.com"
+            "url": "https://flutter.dev"
         }
     ]
 }
